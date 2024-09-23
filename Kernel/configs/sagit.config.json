@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "Xiaomi4",
+      "name": "Xiaomi6",
       "repo": "https://github.com/LineageOS/android_kernel_xiaomi_msm8998",
-      "branch": "master",
+      "branch": "lineage-21",
       "device": "sagit",
       "defconfig": "sagit_defconfig"
     },
