@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "amlogic",
-      "repo": "https://https://github.com/CoreELEC/linux-amlogic",
+      "repo": "https://github.com/CoreELEC/linux-amlogic",
       "branch": "amlogic-4.9-20",
       "device": "Amlogic-ng",
       "defconfig": "Kconfig"
