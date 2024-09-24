@@ -3,9 +3,9 @@
     "kernelSource": {
       "name": "amlogic",
       "repo": "https://github.com/stock169/linux-amlogic",
-      "branch": "amlogic-4.9-20",
+      "branch": "5.15.119_202311",
       "device": "Amlogic-ng",
-      "defconfig": "okconfig"
+      "defconfig": "amlogic_gki.fragment"
     },
     "toolchains": [
       {
