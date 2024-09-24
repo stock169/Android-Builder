@@ -5,7 +5,7 @@
       "repo": "https://github.com/stock169/linux-amlogic",
       "branch": "amlogic-4.9-20",
       "device": "Amlogic-ng",
-      "defconfig": "defconfig"
+      "defconfig": "okconfig"
     },
     "toolchains": [
       {
